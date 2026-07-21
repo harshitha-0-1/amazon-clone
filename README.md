@@ -15,12 +15,7 @@ A responsive Amazon homepage clone built using HTML and CSS.
 
 ## Screenshots
 
-(Add screenshots here later)
+![Amazon Clone](screenshot.png)
 
-## Live Demo
 
-(Add your GitHub Pages link here after enabling GitHub Pages)
 
-## Author
-
-Harshitha Tunguturi
